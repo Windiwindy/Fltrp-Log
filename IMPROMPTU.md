@@ -1,9 +1,9 @@
 ## Nov 25
 1. The Black Hole
-- to accommodate the audience
 - to have a clear and strong central message 
   - When facing new technologies, first we have to learn how to use it: nuclear power
   - Presented with infinite opportunities, we lost ourselves because we don't know what we want
+- to accommodate the audience with mentioning the video
 
 2. Cube and Ball
 - to have a clear and strong central message
