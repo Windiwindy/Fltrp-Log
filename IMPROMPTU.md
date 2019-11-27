@@ -1,3 +1,5 @@
+## Nov 27
+
 ## Nov 26
 ### Outline of the Cube and the Ball
 #### What is love
