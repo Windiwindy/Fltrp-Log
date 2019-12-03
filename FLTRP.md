@@ -1,4 +1,30 @@
+还有没做完的事：
+- 中国文化读本https://item.jd.com/11962437.html，
+- 中国哲学简史，文学回忆录
+- https://mp.weixin.qq.com/s/9KXn5IU6SNVW6fPcZ4ripg
+- https://mp.weixin.qq.com/s/86fSbXw3P70kZYtQOdnwqQ
+- value of philosophy看了吗
+- 双语新闻
+- https://zhidao.baidu.com/question/554092104.html?entrytime=1544089748835&word=%E8%A5%BF%E6%96%B9%E9%9F%B3%E4%B9%90%E5%AE%B6%E4%B8%8E%E7%A7%B0%E5%8F%B7&ms=1&rid=7765331829881385485
+
 ## Dec 3
+### 7 min history of western music http://www.360doc.com/content/17/0508/13/276037_652097738.shtml
+#### Ancient Greece and Rome
+- 5 BC, harp, kithara, lyre (a musical instrument with strings across a u- shaped frame, played with the fingers, especially in ancient Greece)
+- Homeric epics, Iliad and Odyssey
+- Olympic accompaniment
+#### the Middle Ages
+- mass
+- 日课，Gregorian chant
+#### the Renaissance
+- Staff 五线谱
+- Netherlandish Music School??
+- Venetian Music School??
+- Roman Music School??
+
+
+
+
 ### Past questions on western music
 - Wolfgang Amadeus Mozart, Magic Flute, requiem
   - serenade, a piece of music sung or played in the open air, typically by a man at night under the window of his beloved
