@@ -1,23 +1,25 @@
 ## Dec 3
-Franz Schubert, Austrian composer, one of the four great pillars of Classicism – along with Haydn, Mozart and Beethoven, Schubert Symphony No.8 in b minor D.759, D.944,Symphony No.8 in C major,”The Great”, The String Quartet No. 14 in D minor, known as Death and the Maiden, The Trout Quintet
-George Friedrich Handel, one of the greatest composers of the Baroque era, Composer, Messiah
-Herbert von Karajan, Austrian conductor, principal conductor of the Berlin Philharmonic for 35 years.
-Giuseppe Verdi, Italian opera composer, Rigoletto 弄臣 (1851), Il trovatore 游唱诗人 (1853), La traviata 茶花女 (1853), Don Carlos唐·卡洛 (1867), Aida 阿伊达 (1871), Otello 奥泰罗 (1887), and Falstaff 法斯塔夫 (1893) and for his Requiem Mass 安魂曲 (1874)
-Giuseppe Domenico Scarlatti, Italian composer, 555 keyboard sonatas
-Niccolò Paganini, Italian violinist, 24 caprices
-J. P. Sousa
-进行曲之王——苏萨 ( 美 国 )
-流行歌曲之王——福斯特 ( 英 国 ) 　　《噢，苏珊娜》
-园舞曲之父一一老约翰??施特劳斯 ( 奥地利 )
-圆舞曲之王——小约翰??施特劳斯 ( 奥地利 )
-交响曲之王——海顿 ( 奥地利 )
-交响乐诗人——柏辽兹 ( 法 国 )
-印象派大师——德彪西 ( 法 国 )
-轻歌剧之王——奥芬巴赫 ( 法 国 )
-管弦乐色彩大师——拉威尔 ( 法 国 )
-钢琴诗人——肖邦 ( 波 兰 ) 　　《葬礼进行曲》《f小调钢琴协奏曲》
-钢琴之王——李斯特 ( 匈牙利 )　 交响诗《塔索》，《普罗米修斯》，交响曲《浮士德》，
-舞剧音乐大师——柴科夫斯基 ( 俄 国 )　《第六交响曲》即《悲怆》《天鹅湖 》
+# Western music
+* Franz Schubert, Austrian composer, one of the four great pillars of Classicism – along with Haydn, Mozart and Beethoven, Schubert Symphony No.8 in b minor D.759, D.944,Symphony No.8 in C major,”The Great”, The String Quartet No. 14 in D minor, known as Death and the Maiden, The Trout Quintet
+* George Friedrich Handel, one of the greatest composers of the Baroque era, Composer, Messiah
+* Herbert von Karajan, Austrian conductor, principal conductor of the Berlin Philharmonic for 35 years.
+* Giuseppe Verdi, Italian opera composer, Rigoletto 弄臣 (1851), Il trovatore 游唱诗人 (1853), La traviata 茶花女 (1853), Don Carlos唐·卡洛 (1867), Aida 阿伊达 (1871), Otello 奥泰罗 (1887), and Falstaff 法斯塔夫 (1893) and for his Requiem Mass 安魂曲 (1874)
+* Giuseppe Domenico Scarlatti, Italian composer, 555 keyboard sonatas
+* Niccolò Paganini, Italian violinist, 24 caprices
+* J. P. Sousa, American composer and conductor of the late Romantic era known primarily for American military marches, The March King, They include the famous “Semper Fidelis” 永远忠诚 (1888), which became the official march of the U.S. Marine Corps, “The Washington Post” (1889), “The Liberty Bell” (1893), and “The Stars and Stripes Forever” (1897).
+* Stephen Collins Foster, Oh, Susanna
+* Johann Baptist Strauss, Walzer
+* Johann Strauss II - Austrian Romantic composer, King of the Waltz, The Blue Danube Waltz, the second-longest river in Europe after the Volga
+* Franz Joseph Haydn, Austrian composer, the seasons, the "Rider" quartet and the Surprise, Military, Drumroll and London symphonies.
+* Hector Louis Berlioz, French composer, Symphonie fantastique (1830), the choral symphony Roméo et Juliette (1839), and the dramatic piece La Damnation de Faust (1846)
+* Achille-Claude Debussy, French composer, the first Impressionist composer, He developed a highly original system of harmony and musical structure and his later music was perceived as sharing certain characteristics with the Impressionist painters, Monet, especially. His major works include ‘Clair De Lune’月光 (from Suite Bergamasque, 1890–1905), Prélude à L’Après-Midi D’Un Faune (Prelude to the Afternoon of a Faun), the opera Pelléas Et Mélisande 佩里亚斯与梅丽桑德 (1902), and La Mer 大海.
+* Jacques Offenbach, German-French composer, LES CONTES D'HOFFMANN 霍夫曼的故事
+* Maurice Ravel, French composer, Bolero 波莱罗舞曲
+* F.F.Chopin, Polish composer and virtuoso pianist, Noctume No.2 in E-Flat Major, Grande Valse Brillante in E-flat Major 降E大调辉煌大圆舞曲
+* Franz Liszt, Hungarian pianist, Hungarian Rhapsody, Liszt: Faust Symphony; Dante Symphony; Les Prélludes; Prometheus
+* Pyotr Ilyich Tchaikovsky, Russian composer of all time, best known for his ballets Swan Lake and The Nutcracker.
+
+# 对答如流
 * a pretty penny = expensive
 * he has a good humor = good temper
 * don't let the cat out of the bag = keep the secret
