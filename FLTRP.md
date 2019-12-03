@@ -34,49 +34,47 @@
 
 ### 数字前缀
 - one “一”
-   拉丁前缀 uni- ：unique 独一无二的 uniform 制服 unipolar 单极的
-   希腊前缀 mono-：monologue 独白 monogamy 一夫一妻制 monochrome 单色的
+  - 拉丁前缀 uni- ：unique 独一无二的 uniform 制服 unipolar 单极的
+  - 希腊前缀 mono-：monologue 独白 monogamy 一夫一妻制 monochrome 单色的
 - two “二”
-   拉丁前缀 bi- ：bilingual 双语的   bilateral 双边的   bimonthly 两月一次的
-   希腊前缀 di- ：dioxide 二氧化物   disyllable 双音节词   digraph 双字一音
+  - 拉丁前缀 bi- ：bilingual 双语的   bilateral 双边的   bimonthly 两月一次的
+  - 希腊前缀 di- ：dioxide 二氧化物   disyllable 双音节词   digraph 双字一音
 - three “三”
-   拉丁前缀 tri- ：triangle 三角形   tricycle 三轮车   trilogy 三部曲
+  - 拉丁前缀 tri- ：triangle 三角形   tricycle 三轮车   trilogy 三部曲
 - four “四”
-   拉丁前缀 quadr-/quart- ：quadrangle 四边形   quadruped 四足动物   quadruple 四倍
-                   quarter 四分之一   quartet 四重奏
-   希腊前缀 tetra- ：tetragon 四边形   tetrahedron 四面体   tetralogy 四部曲
+  - 拉丁前缀 quadr-/quart- ：quadrangle 四边形   quadruped 四足动物   quadruple 四倍 quarter 四分之一   quartet 四重奏
+  - 希腊前缀 tetra- ：tetragon 四边形   tetrahedron 四面体   tetralogy 四部曲
 - five “五”
-   拉丁前缀 quint- ：quintuple 五倍   quintet 五重奏   quincentenary 五百周年纪念的
-   希腊前缀 pent- ：pentagon 五角大楼  pentathlon 五项全能  pentad 五个一组，【化】五价元素
+  - 拉丁前缀 quint- ：quintuple 五倍   quintet 五重奏   quincentenary 五百周年纪念的
+  - 希腊前缀 pent- ：pentagon 五角大楼  pentathlon 五项全能  pentad 五个一组，【化】五价元素
 - six “六”
-   拉丁前缀 sex- ：sexangle 六边形   sextet 六重奏   sexfoil 六折的
-   希腊前缀 hexa- ：hexagon 六角形   hexahedron 六面体   hexapod 六足虫，昆虫
+  - 拉丁前缀 sex- ：sexangle 六边形   sextet 六重奏   sexfoil 六折的
+  - 希腊前缀 hexa- ：hexagon 六角形   hexahedron 六面体   hexapod 六足虫，昆虫
 - seven “七”
-   拉丁前缀 sept- ：septangle 七边形   septennial 七年一度的   septavalent 【化】七价的
-   希腊前缀 hept- ：heptagon 七边形   heptahedron 七面体   heptachord 七弦琴
+  - 拉丁前缀 sept- ：septangle 七边形   septennial 七年一度的   septavalent 【化】七价的
+  - 希腊前缀 hept- ：heptagon 七边形   heptahedron 七面体   heptachord 七弦琴
 - eight “八”
-   希腊前缀 octa- ：octopus 章鱼（章鱼有八条腿） octapod 章鱼类生物
-                   octuple 八倍   octagon 八边形  octet 八人合唱团  octahedron 八面体
+  - 希腊前缀 octa- ：octopus 章鱼（章鱼有八条腿） octapod 章鱼类生物 octuple 八倍   octagon 八边形  octet 八人合唱团  octahedron 八面体
 - nine “九”
-   拉丁前缀 non- ：nonagon 九边形   nonet 九重奏   nonuple 九倍
-   希腊前缀 enne- ：ennead 九个一组的   enneagon 九边形   enneasyllable 九音节
+  - 拉丁前缀 non- ：nonagon 九边形   nonet 九重奏   nonuple 九倍
+  - 希腊前缀 enne- ：ennead 九个一组的   enneagon 九边形   enneasyllable 九音节
 - ten “十”
-   拉丁前缀 deci- ：decimalism 十进制   decimeter 十米   decigram 十克 decathlon十项全能运动
-   希腊前缀 deca- ：decade 十年   decagon 十边形   decaliter 十升
+  - 拉丁前缀 deci- ：decimalism 十进制   decimeter 十米   decigram 十克 decathlon十项全能运动
+  - 希腊前缀 deca- ：decade 十年   decagon 十边形   decaliter 十升
 - half “半”
-   拉丁前缀 semi- ：simicircle 半圆  semicolonial 半殖民地  semiconductor 半导体 semi-finals (半决赛)
-   希腊前缀 hemi- ：hemisphere 半球   hemicycle 半圆   hemiplegia 偏瘫
+  - 拉丁前缀 semi- ：simicircle 半圆  semicolonial 半殖民地  semiconductor 半导体 semi-finals (半决赛)
+  - 希腊前缀 hemi- ：hemisphere 半球   hemicycle 半圆   hemiplegia 偏瘫
 - many “多”
-   拉丁前缀 multi- ：multitude 多数，大量   multimedia 多媒体   multifunctional 多功能的
-   希腊前缀 poly- ：polycentric 多元的   polygon 多边形   polyglot 通晓多种语言的
+  - 拉丁前缀 multi- ：multitude 多数，大量   multimedia 多媒体   multifunctional 多功能的
+  - 希腊前缀 poly- ：polycentric 多元的   polygon 多边形   polyglot 通晓多种语言的
 - hundred “百”
-   拉丁前缀 cent- : century 世纪   centigrade 度   centimeter 厘米（百分之一米）
-   希腊前缀 hect- ：hectogram 百克   hectoliter 百升   hectometer 百米
+  - 拉丁前缀 cent- : century 世纪   centigrade 度   centimeter 厘米（百分之一米）
+  - 希腊前缀 hect- ：hectogram 百克   hectoliter 百升   hectometer 百米
 - thousand “千”
-   拉丁前缀 mil-：millennium (千年), milligram (毫克) 
-   希腊前缀 kilo- ：Kilowatt（千瓦），kilometer（千米）　 
+  - 拉丁前缀 mil-：millennium (千年), milligram (毫克) 
+  - 希腊前缀 kilo- ：Kilowatt（千瓦），kilometer（千米）　 
 - ten thousand “万”
-   希腊前缀 mega-：megawatt(百万瓦特), megaton (百万吨)　     
+  - 希腊前缀 mega-：megawatt(百万瓦特), megaton (百万吨)　     
 
 ### 对答如流
 * a pretty penny = expensive
@@ -117,6 +115,11 @@
 * you said it, you bet, i'm with you = agreement
 * white elephant 昂贵而无用的东西
 * as tight as an oyster = keep his mouth tightly shut
+
+## Dec 2
+### Teamwork makes people dependent and therefore weaker. Your comment.
+- Summarize terms in your field: journalism, economics, english major; 1 min intro + 2 min application
+- 2 min teamwork brings the best of everyone, 1 min if weaker then due to mechanism, prejudice (primitive humans, ancestors)
 
 ## Nov 26
 ### Outline of the Cube and the Ball
