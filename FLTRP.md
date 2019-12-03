@@ -1,4 +1,23 @@
 ## Dec 3
+Franz Schubert, Austrian composer, one of the four great pillars of Classicism – along with Haydn, Mozart and Beethoven, Schubert Symphony No.8 in b minor D.759, D.944,Symphony No.8 in C major,”The Great”, The String Quartet No. 14 in D minor, known as Death and the Maiden, The Trout Quintet
+George Friedrich Handel, one of the greatest composers of the Baroque era, Composer, Messiah
+Herbert von Karajan, Austrian conductor, principal conductor of the Berlin Philharmonic for 35 years.
+Giuseppe Verdi, Italian opera composer, Rigoletto 弄臣 (1851), Il trovatore 游唱诗人 (1853), La traviata 茶花女 (1853), Don Carlos唐·卡洛 (1867), Aida 阿伊达 (1871), Otello 奥泰罗 (1887), and Falstaff 法斯塔夫 (1893) and for his Requiem Mass 安魂曲 (1874)
+Giuseppe Domenico Scarlatti, Italian composer, 555 keyboard sonatas
+Niccolò Paganini, Italian violinist, 24 caprices
+J. P. Sousa
+进行曲之王——苏萨 ( 美 国 )
+流行歌曲之王——福斯特 ( 英 国 ) 　　《噢，苏珊娜》
+园舞曲之父一一老约翰??施特劳斯 ( 奥地利 )
+圆舞曲之王——小约翰??施特劳斯 ( 奥地利 )
+交响曲之王——海顿 ( 奥地利 )
+交响乐诗人——柏辽兹 ( 法 国 )
+印象派大师——德彪西 ( 法 国 )
+轻歌剧之王——奥芬巴赫 ( 法 国 )
+管弦乐色彩大师——拉威尔 ( 法 国 )
+钢琴诗人——肖邦 ( 波 兰 ) 　　《葬礼进行曲》《f小调钢琴协奏曲》
+钢琴之王——李斯特 ( 匈牙利 )　 交响诗《塔索》，《普罗米修斯》，交响曲《浮士德》，
+舞剧音乐大师——柴科夫斯基 ( 俄 国 )　《第六交响曲》即《悲怆》《天鹅湖 》
 * a pretty penny = expensive
 * he has a good humor = good temper
 * don't let the cat out of the bag = keep the secret
