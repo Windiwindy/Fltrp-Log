@@ -1,5 +1,5 @@
 ## Dec 3
-# Western music
+### Western music
 * Franz Schubert, Austrian composer, one of the four great pillars of Classicism – along with Haydn, Mozart and Beethoven, Schubert Symphony No.8 in b minor D.759, D.944,Symphony No.8 in C major,”The Great”, The String Quartet No. 14 in D minor, known as Death and the Maiden, The Trout Quintet
 * George Friedrich Handel, one of the greatest composers of the Baroque era, Composer, Messiah
 * Herbert von Karajan, Austrian conductor, principal conductor of the Berlin Philharmonic for 35 years.
@@ -19,7 +19,7 @@
 * Franz Liszt, Hungarian pianist, Hungarian Rhapsody, Liszt: Faust Symphony; Dante Symphony; Les Prélludes; Prometheus
 * Pyotr Ilyich Tchaikovsky, Russian composer of all time, best known for his ballets Swan Lake and The Nutcracker.
 
-# 对答如流
+### 对答如流
 * a pretty penny = expensive
 * he has a good humor = good temper
 * don't let the cat out of the bag = keep the secret
