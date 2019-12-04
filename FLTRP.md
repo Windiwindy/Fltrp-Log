@@ -55,14 +55,16 @@
   - Communication Skills– As a person receives more education, his communication skill increases and hence gathering information becomes easier for him. reading, understanding and memory skills
   - educated person is exposed to much more topics; Relevant Social Contact; Selective Exposure
 #### fake news
-
+- types: sensational headlines; propaganda stories; parody like The Onion; sloppy journalism due to carelessness of journalists, writing with sources unchecked, etc.
+- journalists and media outlets that are required to follow strict codes of practice, eg, Readers Magazine
+- critical thinking and media literacy is essential
 #### 麦克卢汉 Marshall McLuhan
-##### The medium is the message
+**The medium is the message**
 - def: the way that we send and receive information is more important than the information itself.
 - exp: 媒介本身的存在改变了人类认知世界、感受世界和以行为影响世界的方式，而媒介传递的内容信息与媒介本身对人类社会发展带来的影响相比，则是相对次要的。麦克卢汉则更加重视“手机”这个媒介本身对人与社会的整体影响，比如手机的出现，让“低头族”变多、人们的内容获取更为零散，由此导致思维的碎片化，整个社会的发展都朝向“移动化”转变。这就是内容和形式的差别。如果说内容带来的是短效的态度转变，形式更多的是长期性的宏观变化。麦克卢汉指出，印刷术出现之后导致西方理性文明发展，电视出现之后带来人与社会的巨大转变，主导这一切的是形式而非内容，因此媒介本身才是对社会变迁带来深刻变化的主体——媒介即讯息。
 - eg:  The media have changed the way we behave. Studies have shown that our memory spans have reduced due to digital technology. News stories have been replaced with 140 character weibos. Conversations have been replaced with emojis.
-##### Media as Extensions of man
-- from the premise that media, or technologies are extensions of some physical, social, psychological, or intellectual function of humans, flows all of McLuhan’s subsequent ideas. Thus, the wheel extends our feet, the phone extends our voice, television extends our eyes and ears, the computer extends our brain, and electronic media, in general, extend our central nervous system. （电子媒介是中枢神经系统的延伸）
+**Media as Extensions of man**
+- McLuhan calls media as the extensions of man, as they each increase the **power and range** of one part of the human body. From the premise that media, or technologies are extensions of some physical, social, psychological, or intellectual function of humans, flows all of McLuhan’s subsequent ideas. Thus, the wheel extends our feet, the phone extends our voice, television extends our eyes and ears, the computer extends our brain, and electronic media, in general, extend our central nervous system. （电子媒介是中枢神经系统的延伸）
 - language too is a medium or technology because it is an extension, or outering, of our inner thoughts, ideas, and feelings—that is, an extension of inner consciousness. eg. public speaking.
 
 ### Economics
