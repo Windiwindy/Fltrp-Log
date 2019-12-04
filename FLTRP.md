@@ -6,14 +6,21 @@
 - https://mp.weixin.qq.com/s/86fSbXw3P70kZYtQOdnwqQ
 - value of philosophy看了吗
 - 双语新闻
-- https://zhidao.baidu.com/question/554092104.html?entrytime=1544089748835&word=%E8%A5%BF%E6%96%B9%E9%9F%B3%E4%B9%90%E5%AE%B6%E4%B8%8E%E7%A7%B0%E5%8F%B7&ms=1&rid=7765331829881385485
 
 ## Dec 4
-### 龙应台：我们为什么需要人文素养 humanistic quality
+### 龙应台：我们为什么需要人文素养 humanistic quality - for the ultimate concern for humanity
 #### Literature: makes visible - macht sichtbar
-- to see the essence and feel empathy 
-ultimate concern for humanity
-
+- 1. to touch the essence, know the ignorance and feel the empathy 
+  - eg, if we are in “Medicine", we are just like the parents. When we are reading at a distance, we are seeing the ignorance, and helplessness and sorrow behind.
+- 2. to be close to the essence of life - beauty
+  - eg, loneliness, captivating beauty of nature - I Wandered Lonely as a Cloud
+#### Philosophy: Guiding the way
+- We are all in the gutter, but some of us are looking at the stars./metaphor - in a labyrinth and stars pointing the way
+- primitive, profound, enduring, and unavoidable questions
+- it will guide our way to reasoning and analysing on a higher level and expand our ways of experiencing our world.
+#### History:
+- 
+- History as a Mirror so that we can avoid past tragedies.
 
 ### Impromptu methodology
 #### 即席三类问题
@@ -24,10 +31,12 @@ ultimate concern for humanity
 - family, love (TKTK), friendship(TKTK), education (esp. liberal education)(TKTK), communication(TKTK), critical thinking(TKTK), vision(TKTK), human nature(TKTK), happiness (importance of living)(TKTK), cultural difference(TKTK), science and technology(TKTK), equality (gender, race, class, disability)(TKTK)等
 
 ### Impromptu - def of innovation and the meaning of innovation to science and tech (TKTK)
+- innovation helps sci and tech develop and reach its goal: if we are without science and tech, we would have been starved and isolated, therefore a better version INTELLECTUALLY(TKTK
 ### Impromptu - the eyes of children - how disabled people are seen (TKTK)
 
 ### English Major
 #### language (TKTK)
+#### Shakespeare和西方戏剧经典几部剧总结一下谢谢
 
 
 ### Journalism
