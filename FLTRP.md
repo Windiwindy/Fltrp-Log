@@ -19,6 +19,72 @@
 ### Impromptu - def of innovation and the meaning of innovation to science and tech (TKTK)
 ### Impromptu - the eyes of children - how disabled people are seen (TKTK)
 
+### English Major
+#### language (TKTK)
+
+
+### Journalism
+#### 拉斯韦尔5W "5W" communication model by Harold Lasswell, a linear model
+- Who,	the communicator or sender or source of message,	Control Analysis
+- Says What,	the content of the message,	Content Analysis
+- In Which Channel,	the medium or media,	Media Analysis
+- To Whom,	the receiver of the message or an audience,	Audience Analysis
+- With What Effect,	the feedback of the receiver to the sender,	Effect Analysis **know your audience**
+- eg: CNN NEWS – A water leak from Japan’s tsunami-crippled nuclear power station resulted in about 100 times the permitted level of radioactive material flowing into the sea, operator Tokyo Electric Power Co said on Saturday.
+- eg: to write stories that my mother could understand
+#### 韦斯特利-麦克莱恩 Westley and MacLean’s Model of Communication
+- There is the concept of feedback. This model can be seen two contexts, interpersonal and mass communication. And the point of difference between interpersonal and mass communication is the feedback. In interpersonal, the feedback is direct and fast. In the mass, the feedback is indirect and slow.
+#### 把关人理论 gate-keeping
+- def: Gatekeeping as a theory, is the news selection and extraction of news, which then gets passed through a series of gates (the journalists), and gets transformed and ends up in the news.
+- exp: Gatekeepers ultimately craft and conduct what is being published to the masses, therefore they determine what is to become the public’s social reality, and their view of the world.
+- challenges: In recent years, there has been blurred lines between establishing who the media audiences are and who the journalists are in today’s society. Due to social media jumping the gates, and with the wide range of accessibility, the differences between public opinions and what is journalistic news is made indistinct.
+#### 第三人效果 the third-person effect
+- def: The third-person effect hypothesis predicts that people tend to perceive that mass media messages have a greater effect on others than on themselves, based on personal biases.
+#### 沉默的螺旋 spiral of silence
+- def: the tendence of people to remain silent when they feel that their views are in opposition to the majority view on a subject. 
+- exp: The theory posits that they remain silent for a few reasons including fear of isolation when the group or public realizes that the individual has a divergent opinion from the status quo, and fear of reprisal or more extreme isolation (loss of a job, status, etc.)
+- eg: In political elections, usually people are asked about their thoughts on candidates. They try to support the popular candidate confidently or do not give out their opinions. This explains the theory.
+#### 信息茧房 Information Cocoons
+- def: A lot of people love reading things that fortify and confirm their own opinions — and, by definition, people like reading about topics that interest them. So, freedom of choice can produce self-sorting, in which people enter echo chambers or information cocoons.
+- exp: We’re becoming more isolated from a diversity of opinions and information and more closely connected to a homogenous cohort.
+- my eg: weibo following travel bloggers, I was fielding a torrent of weibo from "the travel when you are young" reaffirming my pre-existing worldview.
+#### 知沟理论 knowledge-gap theory
+- def: the infusion of mass media information into a social system increases higher socioeconomic status segments tend to acquire this information faster than lower socioeconomic status population segments. Hence  the  gap in knowledge between the two tends to increase rather than decrease.
+- reasons: 
+  - Communication Skills– As a person receives more education, his communication skill increases and hence gathering information becomes easier for him. reading, understanding and memory skills
+  - educated person is exposed to much more topics; Relevant Social Contact; Selective Exposure
+#### fake news
+
+#### 麦克卢汉
+
+### Economics
+#### Comparative advantage
+- Definition: A person has a comparative advantage at producing something if he can produce it at lower cost than anyone else. (cost: opportunity cost) The law of comparative advantage is popularly attributed to English political economist David Ricardo.
+- explanation: The magic of comparative advantage is that everyone has a comparative advantage at producing something. The upshot is quite extraordinary: Everyone stands to gain from trade. Even those who are disadvantaged at every task still have something valuable to offer. The result will benefit the whole.
+- eg1: for example, in the past few years India has become a major supplier of phone-answering services for the American market, even though their English-language skills are not up-to-par.
+- eg2: Consider a famous athlete like Michael Jordan. Michael Jordan would likely be able to, say, paint his house quickly, owing to his abilities as well as his impressive height. Hypothetically, say that Michael Jordan could paint his house in 8 hours. In those same 8 hours, though, he could also take part in the filming of a television commercial which would earn him $50,000. By contrast, Jordan's neighbor Joe could paint the house in 10 hours. In that same period of time, he could work at a fast food restaurant and earn $100. In this example, Joe has a comparative advantage, even though Michael Jordan could paint the house faster and better. The best trade would be for Michael Jordan to film a television commercial and pay Joe to paint his house. So long as Michael Jordan makes the expected $50,000 and Joe earns more than $100, **the trade is a winner. Owing to their diversity of skills, Michael Jordan and Joe would likely find this to be the best arrangement for their mutual benefit.**
+- my eg: In teamwork of reporting, even though I'm not as proficient as my collegues at every task, I could still focus on collecting the voices of young people and to provide my own value, which would allow for higher levels of value production by organizing labor more efficiently.
+#### Efficiency and fairness
+- opinion: There's consideration of efficiency behind fairness. No contradiction between the two.
+- source: Haslem v. Lockwood, After Haslem found horse manure scattered on a public highway, he hired workers to collect it and left it gathered in piles on the public road overnight in order to remove it the next morning. Before Haslem returned, Lockwood removed it. Haslem sued. The thing is, how the case will influence the later generations. To award Haslem the manure, is to encourage people creating wealth, and to show that law protects this wealth even if no efforts are made to protect it. The efforts for protecting property rights is a resouce consumption, law and ethics help reduce the consumption and improve efficiency.
+- eg123: put people into jail - positive accumulation of human capital; steal other people's property - care for our own wealth; hold the road troublemakers accountable - promote the efficiency of the public roads
+my eg: miss the deadline and fail - ensure the healthy development of rule consciousness
+#### What is seen and what is not seen (opportunity cost)
+- opinion: when we make decisions, we need to consider those factors which could not be seen - use imagination
+- def of opportunity cost: Opportunity costs represent the benefits an individual, investor or business **misses out/give up** on when choosing one alternative over another./foregone alternatives
+- source: 
+  - http://bastiat.org/en/twisatwins.html#SECTION_G001
+  - *That Which is Seen, and That Which is Not Seen* by Frédéric Bastiat, THE BROKEN WINDOW - it is a good thing to break windows, that the glazier's trade is encouraged, it causes money to circulate, and that the encouragement of industry in general will be the result of it. But it is not seen that as our shopkeeper has spent six francs upon one thing, he cannot spend them upon another. It is not seen that if he had not had a window to replace, he would, perhaps, have replaced his old shoes, or added another book to his library.
+- eg: country development: Germany underwent WWII and Japan suffered from Hiroshima and Nagasaki bombings, and therefore they developed quickly thereafter. The catastrophe is not the necessary condition for prosperity.
+#### Sunk cost
+- def: A sunk cost refers to money that has already been spent and which cannot be recovered.
+- exp: We are emotional with our purchases and we factor old memories when we make new decisions. But because these costs cannot be retrieved, they should not factor at all into future financial decisions. 
+- eg: Maybe you bought the ticket long in advance but realized too late that you have an exam the next morning, and need to spend that night studying and getting your rest. But $30 is a lot of money for a broke college student like yourself, so you decide to get your money's worth and attend the concert anyway. Regardless of whether you go to the concert or not, the $30 isn't getting recouped.
+#### Marginal cost and marginal revenue
+- def: Marginal refers to the added cost or profit earned with producing the next unit. Marginal Cost is the increase in cost by producing one more unit of the good. Marginal Revenue is the change in total revenue as a result of changing the rate of sales by one unit.
+- exp: The profit maximization formula is MC = MR. If a company's marginal revenue is less than the marginal cost of producing more units, it's an indication that the company is producing too much. On the other hand, if a company's marginal revenue is greater than its marginal cost, it indicates that the company is not producing enough units.
+- eg: make rational decisions, for example, once a movie is being shown at a movie theater, the marginal cost for the movie theater of having one more person watching the movie is zero as long as the movie has not sold out, because the costs incurred by the theater for each time it actually runs the film are not affected by the number of people in the theater.
+
 ### TOPIC - FAMILY
 #### 1. More your parents’ social capital, economic capital and cultural capital, the more likely you will have a better-off life. (From the angle of sociology)
 - My eg: Is working hard enough to get yourself into top2? Why are you the person sitting in the classroom? On the first sociological class I’ve ever taken in college, a questionnaire with questions: What’s your parents’ occupation? What’s your phone model? What's the furthest journey you've ever made before college? “Your family background decides your resources, your study environment, your primary school, junior school and high school, your vision and your horizon. You are sitting here, not only because of your efforts, but also things mentioned above.”
@@ -58,63 +124,14 @@
 
 ### TOPIC - EDUCTAION (TKTK)
 
-### English Major
-#### language (TKTK)
+### 对答如流
+- King John, to gild refined gold, to paint the lily, to throw a perfume on the violet...is wasteful and ridiculous excess
+- 无事不登三宝殿，三宝：佛、法（教法）、僧，buddha, buddhist teachings, monk
+- he's got cold feet = fearful of doing something
+- 
 
 
-### Journalism
-#### 拉斯韦尔5W "5W" communication model by Harold Lasswell, a linear model
-- Who,	the communicator or sender or source of message,	Control Analysis
-- Says What,	the content of the message,	Content Analysis
-- In Which Channel,	the medium or media,	Media Analysis
-- To Whom,	the receiver of the message or an audience,	Audience Analysis
-- With What Effect,	the feedback of the receiver to the sender,	Effect Analysis
-- eg: CNN NEWS – A water leak from Japan’s tsunami-crippled nuclear power station resulted in about 100 times the permitted level of radioactive material flowing into the sea, operator Tokyo Electric Power Co said on Saturday.
-#### 韦斯特利-麦克莱恩 Westley and MacLean’s Model of Communication
-- There is the concept of feedback.
-#### 把关人理论 gate-keeping
-- def: Gatekeeping as a theory, is the news selection and extraction of news, which then gets passed through a series of gates (the journalists), and gets transformed and ends up in the news.
-- exp: Gatekeepers ultimately craft and conduct what is being published to the masses, therefore they determine what is to become the public’s social reality, and their view of the world.
-- challenges: In recent years, there has been blurred lines between establishing who the media audiences are and who the journalists are in today’s society. Due to social media jumping the gates, and with the wide range of accessibility, the differences between public opinions and what is journalistic news is made indistinct.
-#### 第三人效果 the third-person effect
-- def: The third-person effect hypothesis predicts that people tend to perceive that mass media messages have a greater effect on others than on themselves, based on personal biases.
-#### 沉默的螺旋 spiral of silence
-- def: the tendence of people to remain silent when they feel that their views are in opposition to the majority view on a subject. 
-- exp: The theory posits that they remain silent for a few reasons:
-  - 
-#### 信息茧房 Information Cocoons
-#### fake news
-#### 知沟理论 knowledge-gap theory
-#### know your audience
-#### 麦克卢汉
 
-### Economics
-#### Comparative advantage
-- Definition: A person has a comparative advantage at producing something if he can produce it at lower cost than anyone else. (cost: opportunity cost) The law of comparative advantage is popularly attributed to English political economist David Ricardo.
-- explanation: The magic of comparative advantage is that everyone has a comparative advantage at producing something. The upshot is quite extraordinary: Everyone stands to gain from trade. Even those who are disadvantaged at every task still have something valuable to offer. The result will benefit the whole.
-- eg1: for example, in the past few years India has become a major supplier of phone-answering services for the American market, even though their English-language skills are not up-to-par.
-- eg2: Consider a famous athlete like Michael Jordan. Michael Jordan would likely be able to, say, paint his house quickly, owing to his abilities as well as his impressive height. Hypothetically, say that Michael Jordan could paint his house in 8 hours. In those same 8 hours, though, he could also take part in the filming of a television commercial which would earn him $50,000. By contrast, Jordan's neighbor Joe could paint the house in 10 hours. In that same period of time, he could work at a fast food restaurant and earn $100. In this example, Joe has a comparative advantage, even though Michael Jordan could paint the house faster and better. The best trade would be for Michael Jordan to film a television commercial and pay Joe to paint his house. So long as Michael Jordan makes the expected $50,000 and Joe earns more than $100, **the trade is a winner. Owing to their diversity of skills, Michael Jordan and Joe would likely find this to be the best arrangement for their mutual benefit.**
-- my eg: In teamwork of reporting, even though I'm not as proficient as my collegues at every task, I could still focus on collecting the voices of young people and to provide my own value, which would allow for higher levels of value production by organizing labor more efficiently.
-#### Efficiency and fairness
-- opinion: There's consideration of efficiency behind fairness. No contradiction between the two.
-- source: Haslem v. Lockwood, After Haslem found horse manure scattered on a public highway, he hired workers to collect it and left it gathered in piles on the public road overnight in order to remove it the next morning. Before Haslem returned, Lockwood removed it. Haslem sued. The thing is, how the case will influence the later generations. To award Haslem the manure, is to encourage people creating wealth, and to show that law protects this wealth even if no efforts are made to protect it. The efforts for protecting property rights is a resouce consumption, law and ethics help reduce the consumption and improve efficiency.
-- eg123: put people into jail - positive accumulation of human capital; steal other people's property - care for our own wealth; hold the road troublemakers accountable - promote the efficiency of the public roads
-my eg: miss the deadline and fail - ensure the healthy development of rule consciousness
-#### What is seen and what is not seen (opportunity cost)
-- opinion: when we make decisions, we need to consider those factors which could not be seen - use imagination
-- def of opportunity cost: Opportunity costs represent the benefits an individual, investor or business **misses out/give up** on when choosing one alternative over another./foregone alternatives
-- source: 
-  - http://bastiat.org/en/twisatwins.html#SECTION_G001
-  - *That Which is Seen, and That Which is Not Seen* by Frédéric Bastiat, THE BROKEN WINDOW - it is a good thing to break windows, that the glazier's trade is encouraged, it causes money to circulate, and that the encouragement of industry in general will be the result of it. But it is not seen that as our shopkeeper has spent six francs upon one thing, he cannot spend them upon another. It is not seen that if he had not had a window to replace, he would, perhaps, have replaced his old shoes, or added another book to his library.
-- eg: country development: Germany underwent WWII and Japan suffered from Hiroshima and Nagasaki bombings, and therefore they developed quickly thereafter. The catastrophe is not the necessary condition for prosperity.
-#### Sunk cost
-- def: A sunk cost refers to money that has already been spent and which cannot be recovered.
-- exp: We are emotional with our purchases and we factor old memories when we make new decisions. But because these costs cannot be retrieved, they should not factor at all into future financial decisions. 
-- eg: Maybe you bought the ticket long in advance but realized too late that you have an exam the next morning, and need to spend that night studying and getting your rest. But $30 is a lot of money for a broke college student like yourself, so you decide to get your money's worth and attend the concert anyway. Regardless of whether you go to the concert or not, the $30 isn't getting recouped.
-#### Marginal cost and marginal revenue
-- def: Marginal refers to the added cost or profit earned with producing the next unit. Marginal Cost is the increase in cost by producing one more unit of the good. Marginal Revenue is the change in total revenue as a result of changing the rate of sales by one unit.
-- exp: The profit maximization formula is MC = MR. If a company's marginal revenue is less than the marginal cost of producing more units, it's an indication that the company is producing too much. On the other hand, if a company's marginal revenue is greater than its marginal cost, it indicates that the company is not producing enough units.
-- eg: make rational decisions, for example, once a movie is being shown at a movie theater, the marginal cost for the movie theater of having one more person watching the movie is zero as long as the movie has not sold out, because the costs incurred by the theater for each time it actually runs the film are not affected by the number of people in the theater.
 
 ## Dec 3
 ### 7 min history of western music http://www.360doc.com/content/17/0508/13/276037_652097738.shtml
