@@ -12,10 +12,12 @@
 ### Impromptu - the eyes of children - how disabled people are seen
 
 ### English Major
+#### language
+
 
 ### Journalism
 #### 拉斯韦尔5W
-#### 韦斯特利麦克莱恩
+#### 韦斯特利-麦克莱恩
 #### 第三人效果
 #### 沉默的螺旋 spiral of silence
 #### fake news
@@ -62,10 +64,24 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 - 日课，Gregorian chant
 #### the Renaissance
 - Staff 五线谱
-- Netherlandish Music School??
-- Venetian Music School??
-- Roman Music School??
-
+- Netherlandish Music School, the style of polyphonic vocal music composition in Europe in the 15th and 16th centuries 主要音乐活动在尼德兰（荷兰）的一批音乐家。创作内容多为弥散曲与经文歌等宗教音乐，也有世俗音乐。代表人物有迪费、若斯坎、班舒瓦、奥克冈等。
+- Venetian Music School, 在1530-1620年间的一个器乐乐派，其特点是音响气势宽广宏大、对比效果鲜明。创作内容有铜管乐与弦乐的重奏曲、管风琴的前奏曲、幻想曲与托卡塔等。代表人物有维拉尔特、A.加布里埃利等。
+- Roman Music School, 此时期的一个专门创作服务于宗教作品的乐派，以无伴奏合唱的形式为主。代表人物有帕莱斯特里纳、GM纳尼诺、F.索里亚诺等。
+#### the Baroque era
+- 约公元1600-1750年
+- 华丽、复杂、藻饰、扭曲，着重于超现实和雄伟宏奇，这些特质都能彼此融会贯通。四声部的和声，以及加上文字指示和弦的「数字低音」(figuredbass)都产生于巴洛克时代；旧有的教会调式消逝，大小调音阶系统和沿用至今的相关调性之崛起，是巴洛克时代大事。
+#### The Classical Period
+- 约公元1750-1820年
+- 因为这一时期的三位代表性人物：海顿，莫扎特，贝多芬的生活与创作主要都在维也纳，因此又被称为“维也纳古典乐派”或“维也纳古典主义音乐”。
+- 此时期作家中，莫扎特的小夜曲、嬉游曲等都很具亲和力。海顿的第一、二号大提琴协奏曲也会是很适合入门者欣赏的曲目。至于贝多芬的作品，轰轰烈烈的音响俯手可得，还有钢琴奏鸣曲《悲怆》、《热情》、《月光》。
+#### The Romantic Period
+- 约公元1820-1900年
+- 这一时期的音乐更注重表达人的精神境界与主观感情，对自然景物的表现也愈加突出，创作上对民族和民间音乐的利用更加重视与频繁。
+- 19世纪中后期出现了以振兴本民族音乐为己任的民族乐派。
+- 在音乐体裁上出现了新的器乐独奏体裁，如夜曲，即兴曲，叙事曲，谐谑曲，幻想曲与无词歌等。
+- 舒伯特艺术歌曲精选、《美丽的磨坊少女》；肖邦夜曲、钢琴协奏曲第二号；门德尔松小提琴协奏曲、钢琴协奏曲第一、二号；华格纳歌剧序曲集；布拉姆斯交响曲第一、三号；柴可夫斯基小提琴协奏曲第一号、钢琴协奏曲第一号；拉赫玛尼诺夫钢琴协奏曲第二号、《帕格尼尼主题与变奏》；拉罗《西班牙交响曲》；拉威尔钢琴协奏曲G大调。
+#### 20th century classical music
+- Igor Fedorovitch Stravinsky, the Rite of Spring
 
 ### Past questions on western music
 - Wolfgang Amadeus Mozart, Magic Flute, requiem
