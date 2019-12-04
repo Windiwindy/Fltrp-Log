@@ -11,6 +11,18 @@
 ### Impromptu - def of innovation and the meaning of innovation to science and tech
 ### Impromptu - the eyes of children - how disabled people are seen
 
+### English Major
+
+### Journalism
+#### 拉斯韦尔5W
+#### 韦斯特利麦克莱恩
+#### 第三人效果
+#### 沉默的螺旋 spiral of silence
+#### fake news
+#### 知沟理论 knowledge-gap theory
+#### know your audience
+#### 麦克卢汉
+
 ### Economics
 #### Comparative advantage
 - Definition: A person has a comparative advantage at producing something if he can produce it at lower cost than anyone else. (cost: opportunity cost) The law of comparative advantage is popularly attributed to English political economist David Ricardo.
@@ -39,8 +51,6 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 - exp: The profit maximization formula is MC = MR. If a company's marginal revenue is less than the marginal cost of producing more units, it's an indication that the company is producing too much. On the other hand, if a company's marginal revenue is greater than its marginal cost, it indicates that the company is not producing enough units.
 - eg: make rational decisions, for example, once a movie is being shown at a movie theater, the marginal cost for the movie theater of having one more person watching the movie is zero as long as the movie has not sold out, because the costs incurred by the theater for each time it actually runs the film are not affected by the number of people in the theater.
 
-
-- 
 ## Dec 3
 ### 7 min history of western music http://www.360doc.com/content/17/0508/13/276037_652097738.shtml
 #### Ancient Greece and Rome
@@ -55,8 +65,6 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 - Netherlandish Music School??
 - Venetian Music School??
 - Roman Music School??
-
-### Journalism
 
 
 ### Past questions on western music
