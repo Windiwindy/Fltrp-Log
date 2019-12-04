@@ -186,7 +186,7 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 - The Rhine, The Rhine (Romansh:Rein, German:Rhein, French:le Rhin, Dutch:Rijn) is a European river that begins in the Swiss canton of Graubünden in the southeastern Swiss Alps, forms part of the Swiss-Austrian, Swiss-Liechtenstein border, Swiss-German and then the Franco-German border, then flows through the Rhineland and eventually empties into the North Sea in the Netherlands.
   - The Vltava, The Vltava is the longest river within the Czech Republic, 伏尔塔瓦河
 
-### Western music
+### Western music - 1
 * Franz Schubert, Austrian composer, one of the four great pillars of Classicism – along with Haydn, Mozart and Beethoven, Schubert Symphony No.8 in b minor D.759, D.944,Symphony No.8 in C major,”The Great”, The String Quartet No. 14 in D minor, known as Death and the Maiden, The Trout Quintet
 * George Friedrich Handel, one of the greatest composers of the Baroque era, Composer, Messiah
 * Herbert von Karajan, Austrian conductor, principal conductor of the Berlin Philharmonic for 35 years.
@@ -205,6 +205,34 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 * F.F.Chopin, Polish composer and virtuoso pianist, Noctume No.2 in E-Flat Major, Grande Valse Brillante in E-flat Major 降E大调辉煌大圆舞曲
 * Franz Liszt, Hungarian pianist, Hungarian Rhapsody, Liszt: Faust Symphony; Dante Symphony; Les Prélludes; Prometheus
 * Pyotr Ilyich Tchaikovsky, Russian composer of all time, best known for his ballets Swan Lake and The Nutcracker.
+* 乐圣 贝多芬 德国
+音乐之父、十二平均律之父 巴赫 德国
+清唱剧大师 亨德尔 德国
+音乐诗人 舒曼 德国
+乐剧巨匠 瓦格纳 德国
+艺术歌曲之王 舒伯特 奥地利
+指挥界帝王 卡拉扬 奥地利
+圆舞曲之王 约翰-施特劳斯 奥地利
+交响曲之父、四重奏之父 海顿 奥地利
+音乐神童 莫扎特 奥地利
+歌剧之王 威尔第 意大利
+男高音歌王 卡鲁索 意大利
+高音之王 帕瓦洛蒂 意大利
+钢琴诗人 肖邦 波兰
+小提琴之王 帕格尼尼 意大利
+歌剧界女王 卡拉斯 美国
+钢琴之王 李斯特 匈牙利
+标题音乐之父、现代管弦乐之父 柏辽兹 法国
+印象派大师 德彪西 法国
+法国音乐之父 保尔-莫里亚 法国
+俄罗斯音乐之父 格林卡 俄国
+神弓 海菲兹 俄国
+音乐绘画大师 穆索尔斯基 俄国
+捷克音乐之父 德沃夏克 捷克
+新捷克音乐之父 斯美塔那 捷克
+民族乐派奠基者、芬兰第一公民 西贝柳斯 芬兰
+民族乐派大师 格里格 挪威
+当代钢琴泰斗 鲁宾斯坦 波兰 (TKTK)
 
 ### 数字前缀
 - one “一”
