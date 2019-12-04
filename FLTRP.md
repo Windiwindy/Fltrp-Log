@@ -8,18 +8,81 @@
 - https://zhidao.baidu.com/question/554092104.html?entrytime=1544089748835&word=%E8%A5%BF%E6%96%B9%E9%9F%B3%E4%B9%90%E5%AE%B6%E4%B8%8E%E7%A7%B0%E5%8F%B7&ms=1&rid=7765331829881385485
 
 ## Dec 4
-### Impromptu - def of innovation and the meaning of innovation to science and tech
-### Impromptu - the eyes of children - how disabled people are seen
+### Impromptu methodology
+#### 即席三类问题
+- 1) What is your understanding/feeling/view ..., more specifically, What is the role of ... in ...?
+- 2) How can we solve this problem? What will you do? + reason
+- 3) Can you share with us one of your own experiences  ...
+#### 几个重要的主题 
+- family, love (TKTK), friendship(TKTK), education (esp. liberal education)(TKTK), communication(TKTK), critical thinking(TKTK), vision(TKTK), human nature(TKTK), happiness (importance of living)(TKTK), cultural difference(TKTK), science and technology(TKTK), equality (gender, race, class, disability)(TKTK)等
+
+### Impromptu - def of innovation and the meaning of innovation to science and tech (TKTK)
+### Impromptu - the eyes of children - how disabled people are seen (TKTK)
+
+### TOPIC - FAMILY
+#### 1. More your parents’ social capital, economic capital and cultural capital, the more likely you will have a better-off life. (From the angle of sociology)
+- My eg: Is working hard enough to get yourself into top2? Why are you the person sitting in the classroom? On the first sociological class I’ve ever taken in college, a questionnaire with questions: What’s your parents’ occupation? What’s your phone model? What's the furthest journey you've ever made before college? “Your family background decides your resources, your study environment, your primary school, junior school and high school, your vision and your horizon. You are sitting here, not only because of your efforts, but also things mentioned above.”
+- Matthew effect: Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them.
+- 7 Up to 63 Up: documentary series with an original premise of asking whether or not our adult lives are pre-determined by our earliest influences and the social class in which we are raised, Andrew who read the Financial Times at 7 now a successful lawyer, yet farmer’s son Nick now a professor
+- British birth cohort studies: It all starts back in 1946. More than 70,000 children have been involved in these studies across those five generations, data collected includes DNA, cost on milk and corsets by moms. Many children in this study were born into poor families or into working-class families that had cramped homes or other problems, and it's clear now that those disadvantaged children have been more likely to struggle on almost every score.
+#### 2. parents - good parenting/self - efforts/govt - carefully designed systems would beat the odds and overcome some of those early disadvantages.
+- Parents: Talking and listening to a child, responding to them warmly, teaching them their letters and numbers, taking them on trips and visits. Reading to children every day seems to be really important, too. Putting them to bed on time: data showed that those children who were going to bed at different times were more likely to have behavioral problems. Encouragement. The Pygmalion effect.
+- Self: The first lesson for successful life, everyone, is this: choose your parents very carefully - I'm sure you can see the small problem here. We can't choose our parents or how much they earn. We are x-raying the reasons, but we are not blaming our family because we have the ability to change our situations.
+- Cultural capital comprises the social assets of a person that promote social mobility in a stratified society. Examples of cultural capital would include knowledge, skills, and education. Pierre Bourdieu.
+- Govt: College entrance examination
+#### 3. The role of parental influence on children 's personality (psychologically)
+- Opening: A human doesn’t enter into the world with a fully formed personality springing forth from their genes. Rather, babies enter the world with a temperament — or the raw material of personality — that is sculpted into personality by experiences in the world: at school, with friends and siblings, and, perhaps most of all, by their parents.
+- When a child fails to grow a strong attachment to their parents, the lack of inner security cannot be eliminated as he gets older/Lack of love leads to lack of ego strength. Ego strength helps us maintain emotional stability and cope with internal and external stress. Solution: self-observation, reading literature, seeking assistance.
+- There’s only one type of life force. When it is seen, it would become positive: passion, curiosity, love. When it is ignored, it would become a dark force: hatred, attack, destruction.
+- Authoritarian – procrastinator, Be authoritative and not authoritarian, this means that you must set rules but in the same time be democratic enough to explain to your child the reason behind these rules when possible.
+#### 4. Kids should be taught to treat others the way they want to be treated, because they learn from what goes on around them and by how they and other family members interact and are treated.
+- Children are equal to adults in deserving respect as human beings. That doesn’t mean they’re the same as adults. Tall people and short people are equal under the law but that doesn’t mean short people don’t need a stool to reach a high place. Children lack the experience and emotional maturity of adults. They see the world differently. They’re born with the capacity to figure out how the world works. But we need to give them the opportunities to try out their wonky ideas and learn from what happens.
+- A second very important finding from the Harvard Grant Study said that happiness in life comes from love, not love of work, love of humans: our spouse, our partner, our friends, our family. So childhood needs to teach our kids how to love, and they can't love others if they don't first love themselves, and they won't love themselves if we can't offer them unconditional love.
+#### 5. the difference between a lover's love and family's love
+- Storge is fondness through familiarity (a brotherly love), especially between family members or people who have otherwise found themselves together by chance.
+- Philia is the love between friends.
+- Eros is the sensation of 'being in love' or 'loving' someone, as opposed to the raw sexuality.
+- Agape is the love that brings forth caring regardless of the circumstances.
+- Storge+Agape
+- Philia+Eros
+#### 6. Parent and adolescent grow up in a different historical time and culture. Generation gap is a production of normal social change.
+- It is not only that parents are no longer a guide, but that there are no guides. (Margaret Mead) They are immigrants in time, immigrants from an earlier world.
+- They watch the source of power, the means of communication, the definition of humanity, the limits of their explorable universe, the certainties of a known and limited world all change before their eyes.
+- In my day: Children rarely want to know who their parents were before they were parents
+- To the degree that parents can bridge the generational difference by showing an interest in the new, this can reduce the gap's potentially estranging influence; treat the adolescent as an “expert” and themselves as "unknowing"
+- ambivalence = affective solidarity+ conflicts
+- Accept that your parents may not understand you. Communicate, and introduce yourself.
+#### 7. One is eventually to leave the family or say farewell, no matter how reluctant, you are the one responsible for yourself.
+- My grandma has pancreatic cancer. You have to go.
+#### 8. A family is a condensed version of the world. A person is a condensed version of a family. A Kaleidoscope of Human Affairs
+
+### TOPIC - EDUCTAION (TKTK)
 
 ### English Major
-#### language
+#### language (TKTK)
 
 
 ### Journalism
-#### 拉斯韦尔5W
-#### 韦斯特利-麦克莱恩
-#### 第三人效果
+#### 拉斯韦尔5W "5W" communication model by Harold Lasswell, a linear model
+- Who,	the communicator or sender or source of message,	Control Analysis
+- Says What,	the content of the message,	Content Analysis
+- In Which Channel,	the medium or media,	Media Analysis
+- To Whom,	the receiver of the message or an audience,	Audience Analysis
+- With What Effect,	the feedback of the receiver to the sender,	Effect Analysis
+- eg: CNN NEWS – A water leak from Japan’s tsunami-crippled nuclear power station resulted in about 100 times the permitted level of radioactive material flowing into the sea, operator Tokyo Electric Power Co said on Saturday.
+#### 韦斯特利-麦克莱恩 Westley and MacLean’s Model of Communication
+- There is the concept of feedback.
+#### 把关人理论 gate-keeping
+- def: Gatekeeping as a theory, is the news selection and extraction of news, which then gets passed through a series of gates (the journalists), and gets transformed and ends up in the news.
+- exp: Gatekeepers ultimately craft and conduct what is being published to the masses, therefore they determine what is to become the public’s social reality, and their view of the world.
+- challenges: In recent years, there has been blurred lines between establishing who the media audiences are and who the journalists are in today’s society. Due to social media jumping the gates, and with the wide range of accessibility, the differences between public opinions and what is journalistic news is made indistinct.
+#### 第三人效果 the third-person effect
+- def: The third-person effect hypothesis predicts that people tend to perceive that mass media messages have a greater effect on others than on themselves, based on personal biases.
 #### 沉默的螺旋 spiral of silence
+- def: the tendence of people to remain silent when they feel that their views are in opposition to the majority view on a subject. 
+- exp: The theory posits that they remain silent for a few reasons:
+  - 
+#### 信息茧房 Information Cocoons
 #### fake news
 #### 知沟理论 knowledge-gap theory
 #### know your audience
@@ -81,7 +144,7 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 - 在音乐体裁上出现了新的器乐独奏体裁，如夜曲，即兴曲，叙事曲，谐谑曲，幻想曲与无词歌等。
 - 舒伯特艺术歌曲精选、《美丽的磨坊少女》；肖邦夜曲、钢琴协奏曲第二号；门德尔松小提琴协奏曲、钢琴协奏曲第一、二号；华格纳歌剧序曲集；布拉姆斯交响曲第一、三号；柴可夫斯基小提琴协奏曲第一号、钢琴协奏曲第一号；拉赫玛尼诺夫钢琴协奏曲第二号、《帕格尼尼主题与变奏》；拉罗《西班牙交响曲》；拉威尔钢琴协奏曲G大调。
 #### 20th century classical music
-- Igor Fedorovitch Stravinsky, the Rite of Spring
+- Igor Fedorovitch Stravinsky 斯特拉文斯基, the Rite of Spring
 
 ### Past questions on western music
 - Wolfgang Amadeus Mozart, Magic Flute, requiem
@@ -201,7 +264,7 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 * as tight as an oyster = keep his mouth tightly shut
 
 ## Dec 2
-### Teamwork makes people dependent and therefore weaker. Your comment.
+### Teamwork makes people dependent and therefore weaker. Your comment. (TKTK)
 - Summarize terms in your field: journalism, economics, english major; 1 min intro + 2 min application
 - 2 min teamwork brings the best of everyone, 1 min if weaker then due to mechanism, prejudice (primitive humans, ancestors)
 
@@ -255,3 +318,6 @@ Central message: The efforts of the cube are appreciated, but after so many chan
 - what is your attitude towards love, education, family 
 - slogans have to be integrated to your own feelings and opinions
 - start from the video (love) to the broad perspective
+
+## Nov 24
+### Counsel of Kate (TKTK)
