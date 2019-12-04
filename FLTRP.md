@@ -9,6 +9,8 @@
 
 ## Dec 4
 ### Impromptu - def of innovation and the meaning of innovation to science and tech
+### Impromptu - the eyes of children - how disabled people are seen
+
 ### Economics
 #### Comparative advantage
 - Definition: A person has a comparative advantage at producing something if he can produce it at lower cost than anyone else. (cost: opportunity cost) The law of comparative advantage is popularly attributed to English political economist David Ricardo.
@@ -16,16 +18,29 @@
 - eg1: for example, in the past few years India has become a major supplier of phone-answering services for the American market, even though their English-language skills are not up-to-par.
 - eg2: Consider a famous athlete like Michael Jordan. Michael Jordan would likely be able to, say, paint his house quickly, owing to his abilities as well as his impressive height. Hypothetically, say that Michael Jordan could paint his house in 8 hours. In those same 8 hours, though, he could also take part in the filming of a television commercial which would earn him $50,000. By contrast, Jordan's neighbor Joe could paint the house in 10 hours. In that same period of time, he could work at a fast food restaurant and earn $100. In this example, Joe has a comparative advantage, even though Michael Jordan could paint the house faster and better. The best trade would be for Michael Jordan to film a television commercial and pay Joe to paint his house. So long as Michael Jordan makes the expected $50,000 and Joe earns more than $100, **the trade is a winner. Owing to their diversity of skills, Michael Jordan and Joe would likely find this to be the best arrangement for their mutual benefit.**
 - my eg: In teamwork of reporting, even though I'm not as proficient as my collegues at every task, I could still focus on collecting the voices of young people and to provide my own value, which would allow for higher levels of value production by organizing labor more efficiently.
-### Efficiency and fairness
+#### Efficiency and fairness
 - opinion: There's consideration of efficiency behind fairness. No contradiction between the two.
-- eg1: Haslem v. Lockwood, After Haslem found horse manure scattered on a public highway, he hired workers to collect it and left it gathered in piles on the public road overnight in order to remove it the next morning. Before Haslem returned, Lockwood removed it. Haslem sued. The thing is, how the case will influence the later generations. To award Haslem the manure, is to encourage people creating wealth, and to show that law protects this wealth even if no efforts are made to protect it. The efforts for protecting property rights is a resouce consumption, law and ethics help reduce the consumption and improve efficiency.
-- eg234: put people into jail - positive accumulation of human capital; steal other people's property - care for our own wealth; hold the road troublemakers accountable - promote the efficiency of the public roads
+- source: Haslem v. Lockwood, After Haslem found horse manure scattered on a public highway, he hired workers to collect it and left it gathered in piles on the public road overnight in order to remove it the next morning. Before Haslem returned, Lockwood removed it. Haslem sued. The thing is, how the case will influence the later generations. To award Haslem the manure, is to encourage people creating wealth, and to show that law protects this wealth even if no efforts are made to protect it. The efforts for protecting property rights is a resouce consumption, law and ethics help reduce the consumption and improve efficiency.
+- eg123: put people into jail - positive accumulation of human capital; steal other people's property - care for our own wealth; hold the road troublemakers accountable - promote the efficiency of the public roads
 my eg: miss the deadline and fail - ensure the healthy development of rule consciousness
-### What is seen and what is not seen
-- opinion: when we make decisions, we need to consider those factors which could not be seen
+#### What is seen and what is not seen (opportunity cost)
+- opinion: when we make decisions, we need to consider those factors which could not be seen - use imagination
+- def of opportunity cost: Opportunity costs represent the benefits an individual, investor or business **misses out/give up** on when choosing one alternative over another./foregone alternatives
+- source: 
+  - http://bastiat.org/en/twisatwins.html#SECTION_G001
+  - *That Which is Seen, and That Which is Not Seen* by Frédéric Bastiat, THE BROKEN WINDOW - it is a good thing to break windows, that the glazier's trade is encouraged, it causes money to circulate, and that the encouragement of industry in general will be the result of it. But it is not seen that as our shopkeeper has spent six francs upon one thing, he cannot spend them upon another. It is not seen that if he had not had a window to replace, he would, perhaps, have replaced his old shoes, or added another book to his library.
+- eg: country development: Germany underwent WWII and Japan suffered from Hiroshima and Nagasaki bombings, and therefore they developed quickly thereafter. The catastrophe is not the necessary condition for prosperity.
+#### Sunk cost
+- def: A sunk cost refers to money that has already been spent and which cannot be recovered.
+- exp: We are emotional with our purchases and we factor old memories when we make new decisions. But because these costs cannot be retrieved, they should not factor at all into future financial decisions. 
+- eg: Maybe you bought the ticket long in advance but realized too late that you have an exam the next morning, and need to spend that night studying and getting your rest. But $30 is a lot of money for a broke college student like yourself, so you decide to get your money's worth and attend the concert anyway. Regardless of whether you go to the concert or not, the $30 isn't getting recouped.
+#### Marginal cost and marginal revenue
+- def: Marginal refers to the added cost or profit earned with producing the next unit. Marginal Cost is the increase in cost by producing one more unit of the good. Marginal Revenue is the change in total revenue as a result of changing the rate of sales by one unit.
+- exp: The profit maximization formula is MC = MR. If a company's marginal revenue is less than the marginal cost of producing more units, it's an indication that the company is producing too much. On the other hand, if a company's marginal revenue is greater than its marginal cost, it indicates that the company is not producing enough units.
+- eg: make rational decisions, for example, once a movie is being shown at a movie theater, the marginal cost for the movie theater of having one more person watching the movie is zero as long as the movie has not sold out, because the costs incurred by the theater for each time it actually runs the film are not affected by the number of people in the theater.
 
 
-
+- 
 ## Dec 3
 ### 7 min history of western music http://www.360doc.com/content/17/0508/13/276037_652097738.shtml
 #### Ancient Greece and Rome
@@ -41,7 +56,7 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 - Venetian Music School??
 - Roman Music School??
 
-
+### Journalism
 
 
 ### Past questions on western music
@@ -55,7 +70,7 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
   - Sleeping beauty, Tchaikovsky
   - Giselle, Adolphe Adam
 - The Rhine, The Rhine (Romansh:Rein, German:Rhein, French:le Rhin, Dutch:Rijn) is a European river that begins in the Swiss canton of Graubünden in the southeastern Swiss Alps, forms part of the Swiss-Austrian, Swiss-Liechtenstein border, Swiss-German and then the Franco-German border, then flows through the Rhineland and eventually empties into the North Sea in the Netherlands.
-  - The Vltava, The Vltava (IPA: /vəlˈtɑvə/; Czech pronunciation:[ˈvl̩tava]; German:Moldau, IPA:[ˈmɔldaʊ]) is the longest river within the Czech Republic, 伏尔塔瓦河
+  - The Vltava, The Vltava is the longest river within the Czech Republic, 伏尔塔瓦河
 
 ### Western music
 * Franz Schubert, Austrian composer, one of the four great pillars of Classicism – along with Haydn, Mozart and Beethoven, Schubert Symphony No.8 in b minor D.759, D.944,Symphony No.8 in C major,”The Great”, The String Quartet No. 14 in D minor, known as Death and the Maiden, The Trout Quintet
