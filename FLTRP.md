@@ -7,6 +7,25 @@
 - 双语新闻
 - https://zhidao.baidu.com/question/554092104.html?entrytime=1544089748835&word=%E8%A5%BF%E6%96%B9%E9%9F%B3%E4%B9%90%E5%AE%B6%E4%B8%8E%E7%A7%B0%E5%8F%B7&ms=1&rid=7765331829881385485
 
+## Dec 4
+### Impromptu - def of innovation and the meaning of innovation to science and tech
+### Economics
+#### Comparative advantage
+- Definition: A person has a comparative advantage at producing something if he can produce it at lower cost than anyone else. (cost: opportunity cost) The law of comparative advantage is popularly attributed to English political economist David Ricardo.
+- explanation: The magic of comparative advantage is that everyone has a comparative advantage at producing something. The upshot is quite extraordinary: Everyone stands to gain from trade. Even those who are disadvantaged at every task still have something valuable to offer. The result will benefit the whole.
+- eg1: for example, in the past few years India has become a major supplier of phone-answering services for the American market, even though their English-language skills are not up-to-par.
+- eg2: Consider a famous athlete like Michael Jordan. Michael Jordan would likely be able to, say, paint his house quickly, owing to his abilities as well as his impressive height. Hypothetically, say that Michael Jordan could paint his house in 8 hours. In those same 8 hours, though, he could also take part in the filming of a television commercial which would earn him $50,000. By contrast, Jordan's neighbor Joe could paint the house in 10 hours. In that same period of time, he could work at a fast food restaurant and earn $100. In this example, Joe has a comparative advantage, even though Michael Jordan could paint the house faster and better. The best trade would be for Michael Jordan to film a television commercial and pay Joe to paint his house. So long as Michael Jordan makes the expected $50,000 and Joe earns more than $100, **the trade is a winner. Owing to their diversity of skills, Michael Jordan and Joe would likely find this to be the best arrangement for their mutual benefit.**
+- my eg: In teamwork of reporting, even though I'm not as proficient as my collegues at every task, I could still focus on collecting the voices of young people and to provide my own value, which would allow for higher levels of value production by organizing labor more efficiently.
+### Efficiency and fairness
+- opinion: There's consideration of efficiency behind fairness. No contradiction between the two.
+- eg1: Haslem v. Lockwood, After Haslem found horse manure scattered on a public highway, he hired workers to collect it and left it gathered in piles on the public road overnight in order to remove it the next morning. Before Haslem returned, Lockwood removed it. Haslem sued. The thing is, how the case will influence the later generations. To award Haslem the manure, is to encourage people creating wealth, and to show that law protects this wealth even if no efforts are made to protect it. The efforts for protecting property rights is a resouce consumption, law and ethics help reduce the consumption and improve efficiency.
+- eg234: put people into jail - positive accumulation of human capital; steal other people's property - care for our own wealth; hold the road troublemakers accountable - promote the efficiency of the public roads
+my eg: miss the deadline and fail - ensure the healthy development of rule consciousness
+### What is seen and what is not seen
+- opinion: when we make decisions, we need to consider those factors which could not be seen
+
+
+
 ## Dec 3
 ### 7 min history of western music http://www.360doc.com/content/17/0508/13/276037_652097738.shtml
 #### Ancient Greece and Rome
