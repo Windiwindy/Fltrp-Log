@@ -9,6 +9,12 @@
 - https://zhidao.baidu.com/question/554092104.html?entrytime=1544089748835&word=%E8%A5%BF%E6%96%B9%E9%9F%B3%E4%B9%90%E5%AE%B6%E4%B8%8E%E7%A7%B0%E5%8F%B7&ms=1&rid=7765331829881385485
 
 ## Dec 4
+### 龙应台：我们为什么需要人文素养 humanistic quality
+#### Literature: makes visible - macht sichtbar
+- to see the essence and feel empathy 
+ultimate concern for humanity
+
+
 ### Impromptu methodology
 #### 即席三类问题
 - 1) What is your understanding/feeling/view ..., more specifically, What is the role of ... in ...?
@@ -133,6 +139,14 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
 #### 8. A family is a condensed version of the world. A person is a condensed version of a family. A Kaleidoscope of Human Affairs
 
 ### TOPIC - EDUCTAION (TKTK)
+#### 1. no significant learning can occur without a significant relationship
+-	she left a legacy of relationships that could never disappear.
+#### 2. Online education – Is MOOC going to replace universities?
+- e-learning and the traditional classroom will one day form a union: compensating for one where the other lacks.
+- E-learning: by removing the one-size-fits-all lecture from the classroom, and letting students have a self-paced lecture at home
+- The purpose of university education: (vs technical school) enlighten and self-education; gain a liberal perspective (willing to understand and respect); enlargement of your intellectual horizon + specialization
+#### 3. Involution – vicious competition – solutions?
+#### 4. social function
 
 ### 对答如流
 - King John, to gild refined gold, to paint the lily, to throw a perfume on the violet...is wasteful and ridiculous excess
