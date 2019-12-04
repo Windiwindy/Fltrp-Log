@@ -14,10 +14,12 @@
   - eg, if we are in “Medicine", we are just like the parents. When we are reading at a distance, we are seeing the ignorance, and helplessness and sorrow behind.
 - 2. to be close to the essence of life - beauty
   - eg, loneliness, captivating beauty of nature - I Wandered Lonely as a Cloud
+
 #### Philosophy: Guiding the way
 - We are all in the gutter, but some of us are looking at the stars./metaphor - in a labyrinth and stars pointing the way
 - primitive, profound, enduring, and unavoidable questions
 - it will guide our way to reasoning and analysing on a higher level and expand our ways of experiencing our world.
+
 #### History:
 - 
 - History as a Mirror so that we can avoid past tragedies.
