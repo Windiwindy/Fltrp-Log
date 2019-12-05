@@ -7,7 +7,14 @@
 - 双语新闻
 
 ## Dec 5
+### English Major
+courses that span the historical breadth of literature and culture in Britain, America, and beyond.
+read with understanding and insight.
+to read well is to reflect on values and ends, not just means.
+### language 
 
+
+### Shakespeare和西方戏剧经典几部剧总结一下谢谢
 
 ## Dec 4
 ### Why humanistic qualities - for the ultimate concern for humanity
@@ -59,11 +66,6 @@
 - innovation is different from invention, innovation generates value.
 - innovation is the ability to see change as an opportunity, not a threat.
 ### Impromptu - the eyes of children - how disabled people are seen (TKTK)
-
-### English Major
-#### language (TKTK)
-#### Shakespeare和西方戏剧经典几部剧总结一下谢谢
-
 
 ### Journalism
 #### 拉斯韦尔5W "5W" communication model by Harold Lasswell, a linear model
