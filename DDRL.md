@@ -26,6 +26,33 @@
 - Hans Christian Andersen, Danish, 丑小鸭，卖火柴的小女孩
 - 沈雁冰，茅盾，子夜
 - Mark Twain is not a Nobel Prize winner
+- 孟浩然 唐著名山水田园诗人，白居易 唐代三大诗人之一，柳永，北宋著名词人
+- 俄狄浦斯情结，弗洛伊德的所有理论都是基于婴孩的本能，其中一种他称之为“性欲”。但这里的性欲并不是成人之间圈圈叉叉的性欲。而是一种对深切的对愉悦感，满足感的渴望。
+- Aesop's fables, a collection of fables believed to have been written by the Greek storyteller Aesop
+- twenty thousand leagues under the sea, Around the World in Eighty Days, Jules Gabriel Verne, French writer
+- John Ronald Reuel Tolkien, English writer, The Lord of the Rings
+- I Ching，the book of changes 易经
+- 《孙子兵法》和《孙膑兵法》是两部不同的著作。《孙子兵法》作者是春秋时祖籍齐国乐安的吴国将军孙武。《孙子兵法》是中国现存最早的兵书，也是世界上最早的军事著作，被誉为“兵学圣典”。《孙膑兵法》古称《齐孙子》，作者为孙膑。《孙膑兵法》是中国古代的最著名中原军事著作之一，也是《孙子兵法》后“孙子学派”的又一力作，是反映战国时期兵家思想的代表作之一。兵不厌诈来自孙子兵法。
+- Crime and Punishment, The Brothers Karamazov, Fyodor Dostoyevsky
+- Auld Lang Syne是一首非常出名的诗歌，原文是古苏格兰方言，直译做英文是"old long since"或"days gone by"，大意为“逝去已久的日子”。Auld Lang Syne是十八世纪**苏格兰诗人罗伯特布恩斯(Robert Burns)** 根据当地民歌记录下的。这首诗后来被谱了乐曲，除了英文外，这首歌亦被多国谱上当地语言，在中国各地普遍称为《友谊地久天长》。
+- Yahoo, Gulliver's Travels, Jonathan Swift, Anglo-Irish satirist, 雅虎（yahoo,又译作犽猢、野胡、亚乌）是智马统治的国家里最低等的畜牲。
+- Gone with the wind, Margaret Mitchell, American Civil War
+- Wuthering Heights, Emily Jane Bronte
+- Jane Eyre, Charlotte Brontë
+- The Thorn Birds, Colleen McCullough, Australia
+- Johann Wolfgang von Goethe, German, Faust, The Sorrows of Young Werther
+- Scarlet and Black, Stendhal, French
+- Creation of the gods, 封神演义
+- in search of the supernatural, 搜神记
+- Romulus and Remus - Rome
+- Greek mythology - patron of Anthens as well as the Goddess of Wisdom - Anthena
+- 潘多拉魔盒里有希望
+- Roman mythology - goddess of love and beauty is Venus, Greek - Aphrodite 阿弗洛狄忒
+- apple of discord 金苹果
+- peony 牡丹
+- 灯火阑珊处 辛弃疾
+- Life is dear, love is dearer, both can be given up for freedom. 生命诚可贵，爱情价更高。若为自由故，二者皆可抛。Sandor Petofi, Hungary
+- The Decameron 十日谈 14th-century Italian author Giovanni Boccaccio
 
 ## Dec 3
 * a pretty penny = expensive
