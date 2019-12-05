@@ -5,6 +5,7 @@
 - https://mp.weixin.qq.com/s/9KXn5IU6SNVW6fPcZ4ripg
 - https://mp.weixin.qq.com/s/86fSbXw3P70kZYtQOdnwqQ
 - 双语新闻
+- closing sentences
 
 ## Dec 5
 ### English Major
