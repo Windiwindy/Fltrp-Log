@@ -7,6 +7,10 @@
 - value of philosophy看了吗
 - 双语新闻
 
+## Dec 5
+### Inequality
+
+
 ## Dec 4
 ### 龙应台：我们为什么需要人文素养 humanistic quality - for the ultimate concern for humanity
 #### Literature: makes visible - macht sichtbar
@@ -19,10 +23,18 @@
 - We are all in the gutter, but some of us are looking at the stars./metaphor - in a labyrinth and stars pointing the way
 - primitive, profound, enduring, and unavoidable questions
 - it will guide our way to reasoning and analysing on a higher level and expand our ways of experiencing our world.
+- seeking wisdom and truth - where the world came from, where we came from
 
 #### History:
-- 
-- History as a Mirror so that we can avoid past tragedies.
+- ignorance is at the core of human misery
+- gives us a perspective on our own time, 
+  - this is to understand our position, where we are and where we are going
+  - you don't get **complacent** about our own time
+  - help you be aware of the complexity of society, culture, citizenship
+- why the world is the way it is, when you understand a nation's history, you understand its people
+- "people who don't know the past are condemned to repeat it." History as a Mirror so that we can avoid past tragedies, don't repeat the mistakes - a gift of experience, eg, Great Smog of 1952
+  - some of the issues you are facing have been presenting themselves to people earlier
+  - root, habits, customs, reenacting without knowing it
 
 ### Impromptu methodology
 #### 即席三类问题
@@ -32,8 +44,15 @@
 #### 几个重要的主题 
 - family, love (TKTK), friendship(TKTK), education (esp. liberal education)(TKTK), communication(TKTK), critical thinking(TKTK), vision(TKTK), human nature(TKTK), happiness (importance of living)(TKTK), cultural difference(TKTK), science and technology(TKTK), equality (gender, race, class, disability)(TKTK)等
 
-### Impromptu - def of innovation and the meaning of innovation to science and tech (TKTK)
-- innovation helps sci and tech develop and reach its goal: if we are without science and tech, we would have been starved and isolated, therefore a better version INTELLECTUALLY(TKTK
+### Impromptu - def of innovation and the meaning of innovation to science and tech
+- innovation helps sci and tech develop and reach its goal: if we are without science and tech, we would have been starved and isolated, therefore a better version of living
+- **science and technology** help liberate humanity from endless heavy work for surviving and physiological needs. We can pursue higher level desires and self-fulfillment. + intellectually: science broadens the vision of cognition and understanding.
+  - car-hailing, e-classroom, mobile payment
+  - The goal of science is to understand the natural world through a process known as scientific inquiry. Scientific knowledge helps us explain the world around us, such as why water evaporates and plants grow in particular locations, what causes disease, and how electricity works.
+  - the ancienct greek aphorism "know thyself" on the Temple of Apollo at Delphi
+- From farming to steam engines to social networks and smartphones, the progress and prosperity of human race is driven by innovation — the art and science of creating or discovering something new. Innovation entails leaving your comfort zone and forcing your mind wander the unchartered territory — beyond your skillset and knowledge. Often bearing a risk and often against your wishes and nature.
+- innovation is different from invention, innovation generates value.
+- innovation is the ability to see change as an opportunity, not a threat.
 ### Impromptu - the eyes of children - how disabled people are seen (TKTK)
 
 ### English Major
@@ -296,7 +315,7 @@ my eg: miss the deadline and fail - ensure the healthy development of rule consc
   - 希腊前缀 mega-：megawatt(百万瓦特), megaton (百万吨)　     
 
 ## Dec 2
-### Teamwork makes people dependent and therefore weaker. Your comment. (TKTK)
+### Teamwork makes people dependent and therefore weaker. Your comment. 
 - Summarize terms in your field: journalism, economics, english major; 1 min intro + 2 min application
 - 2 min teamwork brings the best of everyone, 1 min if weaker then due to mechanism, prejudice (primitive humans, ancestors)
 
