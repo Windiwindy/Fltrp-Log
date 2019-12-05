@@ -4,10 +4,13 @@
 - 中国哲学简史，文学回忆录
 - https://mp.weixin.qq.com/s/9KXn5IU6SNVW6fPcZ4ripg
 - https://mp.weixin.qq.com/s/86fSbXw3P70kZYtQOdnwqQ
-- 双语新闻
 - closing sentences
 
 ## Dec 5
+### Seven Ages https://www.bilibili.com/video/av33997465/?spm_id_from=333.788.videocard.0
+- representing the universe
+- What are the seven stage of man? As the song bio says, the seven stages are the helpless infant, the whining schoolboy, the emotional lover, the devoted soldier, the wise judge, the old man still in control of his faculties, and the extremely aged, returned to a second state of helplessness.
+
 ### English Major
 courses that span the historical breadth of literature and culture in Britain, America, and beyond.
 read with understanding and insight.
@@ -35,8 +38,9 @@ to read well is to reflect on values and ends, not just means.
 - Utility - Thus utility does not belong to philosophy
 - The 'practical' man, as this word is often used, is one who recognizes only material needs, who realizes that men must have food for the body, but is oblivious of the necessity of providing food for the mind.
 - as soon as definite knowledge concerning any subject becomes possible, this subject ceases to be called philosophy, and becomes a separate science. The whole study of the heavens, which now belongs to astronomy, was once included in philosophy; Newton's great work was called 'the mathematical principles of natural philosophy'. Similarly, the study of the human mind, which was a part of philosophy, has now been separated from philosophy and has become the science of psychology. Thus, to a great extent, the uncertainty of philosophy is more apparent than real: those questions which are already capable of definite answers are placed in the sciences, while those only to which, at present, no definite answer can be given, remain to form the residue which is called philosophy.
-- TKTK
-
+- The man who has no tincture of philosophy goes through life imprisoned in the prejudices derived from common sense
+- is able to suggest many possibilities which enlarge our thoughts and free them from the tyranny of custom.
+- All acquisition of knowledge is an enlargement of the Self
 
 #### History:
 - ignorance is at the core of human misery
