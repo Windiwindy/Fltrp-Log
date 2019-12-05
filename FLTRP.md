@@ -4,15 +4,13 @@
 - 中国哲学简史，文学回忆录
 - https://mp.weixin.qq.com/s/9KXn5IU6SNVW6fPcZ4ripg
 - https://mp.weixin.qq.com/s/86fSbXw3P70kZYtQOdnwqQ
-- value of philosophy看了吗
 - 双语新闻
 
 ## Dec 5
-### Inequality
 
 
 ## Dec 4
-### 龙应台：我们为什么需要人文素养 humanistic quality - for the ultimate concern for humanity
+### Why humanistic qualities - for the ultimate concern for humanity
 #### Literature: makes visible - macht sichtbar
 - 1. to touch the essence, know the ignorance and feel the empathy 
   - eg, if we are in “Medicine", we are just like the parents. When we are reading at a distance, we are seeing the ignorance, and helplessness and sorrow behind.
@@ -24,6 +22,13 @@
 - primitive, profound, enduring, and unavoidable questions
 - it will guide our way to reasoning and analysing on a higher level and expand our ways of experiencing our world.
 - seeking wisdom and truth - where the world came from, where we came from
+
+#### the Value of Philosophy - Bertrand Russel
+- Utility - Thus utility does not belong to philosophy
+- The 'practical' man, as this word is often used, is one who recognizes only material needs, who realizes that men must have food for the body, but is oblivious of the necessity of providing food for the mind.
+- as soon as definite knowledge concerning any subject becomes possible, this subject ceases to be called philosophy, and becomes a separate science. The whole study of the heavens, which now belongs to astronomy, was once included in philosophy; Newton's great work was called 'the mathematical principles of natural philosophy'. Similarly, the study of the human mind, which was a part of philosophy, has now been separated from philosophy and has become the science of psychology. Thus, to a great extent, the uncertainty of philosophy is more apparent than real: those questions which are already capable of definite answers are placed in the sciences, while those only to which, at present, no definite answer can be given, remain to form the residue which is called philosophy.
+- TKTK
+
 
 #### History:
 - ignorance is at the core of human misery
