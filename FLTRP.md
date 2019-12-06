@@ -7,6 +7,7 @@
 - closing sentences
 
 ## Dec 6
+### Closing sentences
 ### College Education (for me)
 ### Prepared
 NLP can be instrumental at all levels of news creation, reading and digestion.
