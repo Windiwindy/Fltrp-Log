@@ -6,17 +6,21 @@
 - https://mp.weixin.qq.com/s/86fSbXw3P70kZYtQOdnwqQ
 - closing sentences
 
+## Dec 6
+### College Education (for me)
+### Prepared
+
 ## Dec 5
 ### Seven Ages https://www.bilibili.com/video/av33997465/?spm_id_from=333.788.videocard.0
 - representing the universe
 - What are the seven stage of man? As the song bio says, the seven stages are the helpless infant, the whining schoolboy, the emotional lover, the devoted soldier, the wise judge, the old man still in control of his faculties, and the extremely aged, returned to a second state of helplessness.
 
 ### English Major
-courses that span the historical breadth of literature and culture in Britain, America, and beyond.
-read with understanding and insight.
-to read well is to reflect on values and ends, not just means.
-### language 
+- courses that span the historical breadth of literature and culture in Britain, America, and beyond.
+- read with understanding and insight.
+- to read well is to reflect on values and ends, not just means.
 
+### BBC language 
 
 ### Shakespeare和西方戏剧经典几部剧总结一下谢谢
 
