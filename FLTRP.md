@@ -9,6 +9,24 @@
 ## Dec 6
 ### College Education (for me)
 ### Prepared
+NLP can be instrumental at all levels of news creation, reading and digestion.
+https://www.aclweb.org/portal/content/lrec-2018-workshop-natural-language-processing-meets-journalism-iii
+
+
+
+
+i can make a sequence of noises pushing air through my mouth i will take a thought in my head and make it go in their head
+sophisticated children with minimal efforts - miraculous
+genetics and anatomy
+proliferation of manmade tools abruptly - instigated the cultural boom
+language probably developed as a practical way of defining roles, a kind of social glue: making the huts, spears, gathering water
+contribution
+talk from generation and generation
+nature and nurture
+monolithic
+inherit acquire
+
+
 
 ## Dec 5
 ### Seven Ages https://www.bilibili.com/video/av33997465/?spm_id_from=333.788.videocard.0
