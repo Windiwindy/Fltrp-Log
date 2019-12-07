@@ -8,6 +8,9 @@
 
 ## Dec 6
 ### Closing sentences
+- In any weather, at any hour of the day or night, I have been anxious to improve the nick of time, and notch it on my stick too; to stand on the meeting of two eternities, the past and future, which is precisely the present moment; to toe that line. - Henry David Thoreau
+- 本科阶段是学生开始走向成熟、为独立生活作准备的重要阶段，也是学生世界观、人生观、价值观形成的关键时期。在迅速变化的互联网时代，本科学生面临着更多的选择和诱惑，“夫道不欲杂，杂则多，多则扰，扰则忧，忧而不救。”帮助年轻同学形成正确的价值观，扣好人生的“第一粒扣子”，是教育者义不容辞的责任。因此，在本科教育中，价值引导是第一位的，是育人的根本。
+
 ### College Education (for me)
 ### Prepared
 - NLP can be instrumental at all levels of news creation, reading and digestion.
