@@ -10,24 +10,19 @@
 ### Closing sentences
 ### College Education (for me)
 ### Prepared
-NLP can be instrumental at all levels of news creation, reading and digestion.
-https://www.aclweb.org/portal/content/lrec-2018-workshop-natural-language-processing-meets-journalism-iii
+- NLP can be instrumental at all levels of news creation, reading and digestion.
+- https://www.aclweb.org/portal/content/lrec-2018-workshop-natural-language-processing-meets-journalism-iii
+- https://medium.com/jsk-class-of-2019/what-ive-learned-about-ai-and-why-journalists-should-care-16a97e55c6e3
+- http://jonathanstray.com/papers/Making%20Artificial%20Intelligence%20Work%20for%20Investigative%20Journalism.pdf
 
-
-
-
-i can make a sequence of noises pushing air through my mouth i will take a thought in my head and make it go in their head
-sophisticated children with minimal efforts - miraculous
-genetics and anatomy
-proliferation of manmade tools abruptly - instigated the cultural boom
-language probably developed as a practical way of defining roles, a kind of social glue: making the huts, spears, gathering water
+### BBC language
+- i can make a sequence of noises pushing air through my mouth i will take a thought in my head and make it go in their head; sophisticated, yet children with minimal efforts - miraculous
+- we talk because of our genetics and anatomy
+- when did we start to talk - eg, proliferation of manmade tools abruptly - instigated the cultural boom
+  - language probably developed as a practical way of defining roles, a kind of social glue: making the huts, spears, gathering water
 contribution
-talk from generation and generation
-nature and nurture
-monolithic
-inherit acquire
-
-
+- nature and nurture, inherit acquire
+- not monolithic
 
 ## Dec 5
 ### Seven Ages https://www.bilibili.com/video/av33997465/?spm_id_from=333.788.videocard.0
@@ -38,8 +33,6 @@ inherit acquire
 - courses that span the historical breadth of literature and culture in Britain, America, and beyond.
 - read with understanding and insight.
 - to read well is to reflect on values and ends, not just means.
-
-### BBC language 
 
 ### Shakespeare和西方戏剧经典几部剧总结一下谢谢
 
